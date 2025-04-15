@@ -33,7 +33,7 @@ This project demonstrates a Django application with Celery for background tasks,
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aroxed/django-celery-redis-docker
 cd django-celery-redis-docker
 ```
 
